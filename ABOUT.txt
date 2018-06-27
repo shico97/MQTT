@@ -1,0 +1,10 @@
+Why I picked this langauge?
+Because it's quite easy and i have made several projects using this language during the university.
+
+What i learned in the process?
+I have learned the MQTT protocol and how it works.
+
+how much (or little) experience you have with the particular language and framework you chose?
+I have worked on several project using this language for example (OOP) as i used this language to make a small game 
+and server-client chatting application and android application that reads the temperature from a temperature sensor
+and this one was with the help of arduino (ESP module).
