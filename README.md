@@ -1,5 +1,5 @@
 # MQTT
-First, You shoud create an account on cloudMqtt and create an instance 
+First, You shoud create an account on cloudMqtt and create an instance. 
 Second, Start entering the given ServerUrl(BrokerUrl), User, Password and finally the port number and then press connect
 It will take you to another activity you shoud type the topic and then subscribe it and start typing the message you want to send then publish it.
 The message will appear on the empty grey window down with the topic you have choosen
